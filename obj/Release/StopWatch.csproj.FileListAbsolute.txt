@@ -1,0 +1,11 @@
+C:\Users\Zeek\source\repos\StopWatch\bin\Release\StopWatch.exe.config
+C:\Users\Zeek\source\repos\StopWatch\bin\Release\StopWatch.exe
+C:\Users\Zeek\source\repos\StopWatch\bin\Release\StopWatch.pdb
+C:\Users\Zeek\source\repos\StopWatch\obj\Release\StopWatch.csproj.AssemblyReference.cache
+C:\Users\Zeek\source\repos\StopWatch\obj\Release\StopWatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zeek\source\repos\StopWatch\obj\Release\StopWatch.Form1.resources
+C:\Users\Zeek\source\repos\StopWatch\obj\Release\StopWatch.Properties.Resources.resources
+C:\Users\Zeek\source\repos\StopWatch\obj\Release\StopWatch.csproj.GenerateResource.cache
+C:\Users\Zeek\source\repos\StopWatch\obj\Release\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\Zeek\source\repos\StopWatch\obj\Release\StopWatch.exe
+C:\Users\Zeek\source\repos\StopWatch\obj\Release\StopWatch.pdb
